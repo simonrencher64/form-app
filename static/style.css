@@ -1,0 +1,10 @@
+.blockTexture{
+	display: inline-block;
+	margin: auto;
+	width: 10%;
+    border: 3px solid white;
+}
+
+.center{
+	text-Align: center;
+}
